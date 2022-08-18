@@ -1,5 +1,6 @@
 
-## Foresight.io Demo Projects - Junit Quickcheck
+## Foresight.io Demo Projects - Jest Extended
+
 
 ---
 ![Success Details](http://foresight.service.thundra.us/public/api/v1/badge/success?repoId=4f9bd2c4-68bd-4294-8dff-0b33d906e8a6)
